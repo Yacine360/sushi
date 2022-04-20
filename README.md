@@ -1,7 +1,3 @@
-# Equipe pour ce Projet 
-Ali Hakim ,
-Billy Sita et
-Valentino
 # SushiFast
 Pour ce pojet nous devons crée une application web de vente de sushi ou deux scenario etait possible dans un premier temp: <br>
 1. Si l’opérateur prend la commande par téléphone pour une livraison à domicile <br>
